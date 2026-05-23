@@ -1,5 +1,5 @@
 ### Hi there 👋 
-  - Comp Science Student
+  - Comp Science Grad
   - Learning Networking, Security, and Backend
 <!--
 **alfarzf/alfarzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
